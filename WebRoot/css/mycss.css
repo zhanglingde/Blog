@@ -1,0 +1,110 @@
+.layui-btn {
+	display: inline-block;
+	height: 38px;
+	line-height: 38px;
+	padding: 0 33px;
+	background-color: #009688;
+	color: #fff;
+	white-space: nowrap;
+	text-align: center;
+	font-size: 14px;
+	border: none;
+	border-radius: 2px;
+	cursor: pointer;
+	margin-left: 110px;
+}
+
+.layui-input {
+	display: block;
+	width: 200px;
+	height: 30px;
+	padding-left: 10px
+}
+
+.layui-form-label {
+	float: left;
+	display: block;
+	padding: 9px 15px;
+	width: 80px;
+	font-weight: 400;
+	line-height: 20px;
+	text-align: right
+}
+
+.layui-form-select .layui-input {
+	padding-right: 30px;
+	cursor: pointer
+}
+
+.layui-form-radio {
+	line-height: 28px;
+	margin: 6px 10px 0 0;
+	padding-right: 10px;
+	cursor: pointer;
+	font-size: 0
+}
+
+.layui-anim.layui-icon {
+	display: inline-block
+}
+
+.layui-unselect {
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none
+}
+
+.layui-btn-sm {
+	height: 30px;
+	line-height: 30px;
+	padding: 0 10px;
+	font-size: 12px
+}
+
+.layui-table {
+	width: 100%;
+	background-color: #fff;
+	color: #666;
+}
+
+thead {
+	display: table-header-group;
+	vertical-align: middle;
+	border-color: inherit;
+}
+
+.layui-table tbody tr:hover,
+.layui-table thead tr,
+.layui-table-click,
+.layui-table-header,
+.layui-table-hover,
+.layui-table-mend,
+.layui-table-patch,
+.layui-table-tool,
+.layui-table-total,
+.layui-table-total tr,
+.layui-table[lay-even] tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+
+.layui-table td,
+.layui-table th {
+	position: relative;
+	padding: 9px 15px;
+	min-height: 20px;
+	line-height: 20px;
+	font-size: 14px
+}
+
+.layui-btn .layui-icon {
+	margin-right: 3px;
+	font-size: 18px;
+	vertical-align: bottom;
+	vertical-align: middle\9
+}
+
+.layui-btn-group {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 0
+}
